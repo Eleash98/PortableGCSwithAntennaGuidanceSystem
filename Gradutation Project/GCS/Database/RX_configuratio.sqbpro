@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/fatma/Downloads/Compressed/Sqlite_Database_2/Sqlite_Database/RX_configuration" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="browser structure pragmas query" current="1"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="1790"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="0"/><expanded_item id="2" parent="0"/><expanded_item id="3" parent="0"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,10:mainRX_DL_SYNC"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="SQL 1">CREATE TABLE &quot;TX_physical_configuration&quot; (
+	&quot;satellite_ID&quot;	INTEGER,
+	&quot;frequency&quot;	BLOB,
+	&quot;physical_SyncWord_flag&quot;	TEXT,
+	&quot;physical_SyncWord_length&quot;	INTEGER,
+	&quot;physical_SyncWord_value&quot;	INTEGER,
+	&quot;BaudRate_ID&quot;	INTEGER,
+	&quot;modulation_type_ID&quot;	INTEGER,
+	&quot;modulation_index_ID&quot;	INTEGER
+)</sql><current_tab id="0"/></tab_sql></sqlb_project>
