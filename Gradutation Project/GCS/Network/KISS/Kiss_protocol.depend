@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1625435878 source:/home/mahmoud/Kiss_protocol/construct_transmitted_KISS_frame.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BIT_MATH.h"
+	"STD_TYPES.h"
+	"KISS_private.h"
+	"KISS_interface.h"
+
+1609410198 /home/mahmoud/Kiss_protocol/BIT_MATH.h
+
+1608728610 /home/mahmoud/Kiss_protocol/STD_TYPES.h
+
+1625435386 /home/mahmoud/Kiss_protocol/KISS_private.h
+	"KISS_interface.h"
+
+1625435385 /home/mahmoud/Kiss_protocol/KISS_interface.h
+	"STD_TYPES.h"
+
+1611302556 source:/home/mahmoud/Kiss_protocol/CRC_PROG.c
+	<stdio.h>
+	<stdlib.h>
+	"BIT_MATH.h"
+	"STD_TYPES.h"
+	"KISS_private.h"
+	"KISS_interface.h"
+
+1625436491 source:/home/mahmoud/Kiss_protocol/deframing_received_KISS_frame.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BIT_MATH.h"
+	"STD_TYPES.h"
+	"KISS_private.h"
+	"KISS_interface.h"
+
+1625436752 source:/home/mahmoud/Kiss_protocol/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"STD_TYPES.h"
+	"KISS_interface.h"
+	"KISS_private.h"
+

@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1624283541 source:/home/mahmoud/CCSDS/CCSDS_packet/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1624462248 source:/home/mahmoud/CCSDS/CCSDS_Packet_Protocol v3/CCSDS_Packet_Prog.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"STD_TYPES.h"
+	"BIT_MATH.h"
+	"CCSDS_PACKET_PRIVATE.h"
+
+1621045406 /home/mahmoud/CCSDS/CCSDS_Packet_Protocol v3/STD_TYPES.h
+
+1621045370 /home/mahmoud/CCSDS/CCSDS_Packet_Protocol v3/BIT_MATH.h
+
+1624408219 /home/mahmoud/CCSDS/CCSDS_Packet_Protocol v3/CCSDS_PACKET_PRIVATE.h
+	"STD_TYPES.h"
+	"CCSDS_PACKET_INTERFACE.h"
+
+1624461162 /home/mahmoud/CCSDS/CCSDS_Packet_Protocol v3/CCSDS_PACKET_INTERFACE.h
+	"STD_TYPES.h"
+
+1624461837 source:/home/mahmoud/CCSDS/CCSDS_Packet_Protocol v3/main.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"STD_TYPES.h"
+	"BIT_MATH.h"
+	"CCSDS_PACKET_INTERFACE.h"
+

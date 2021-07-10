@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1612311552 source:e:\me\graduation_project\ssp_version5\ssp_dl_sm.c
+	<stdio.h>
+	<stdlib.h>
+	"ssp_private.h"
+	"ssp_interface.h"
+	"STD.h"
+	"BIT_MATH.h"
+	"ssp_DL_SM.h"
+
+1612298527 e:\me\graduation_project\ssp_version5\ssp_private.h
+
+1612297324 e:\me\graduation_project\ssp_version5\ssp_interface.h
+	<stdio.h>
+	<stdlib.h>
+	"STD.h"
+
+1611948472 e:\me\graduation_project\ssp_version5\std.h
+
+1611948434 e:\me\graduation_project\ssp_version5\bit_math.h
+
+1612303776 e:\me\graduation_project\ssp_version5\ssp_dl_sm.h
+
+1612300844 source:e:\me\graduation_project\ssp_version5\ssp_interface.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"STD.h"
+	"ssp_interface.h"
+	"ssp_private.h"
+	"ssp_DL_SM.h"
+
+1612303783 source:e:\me\graduation_project\ssp_version5\ssp_recieve.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"STD.h"
+	"ssp_interface.h"
+	"ssp_private.h"
+	"ssp_DL_SM.h"
+
+1612300867 source:e:\me\graduation_project\ssp_version5\ssp_transmit.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"STD.h"
+	"ssp_interface.h"
+	"ssp_private.h"
+	"ssp_DL_SM.h"
+
+1612377273 source:e:\me\graduation_project\ssp_version5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ssp_private.h"
+	"ssp_interface.h"
+	"ssp_DL_SM.h"
+	"STD.h"
+	"BIT_MATH.h"
+
